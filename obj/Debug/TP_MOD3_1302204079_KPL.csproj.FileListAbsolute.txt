@@ -1,0 +1,10 @@
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\bin\Debug\TP_MOD3_1302204079_KPL.exe.config
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\bin\Debug\TP_MOD3_1302204079_KPL.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\bin\Debug\TP_MOD3_1302204079_KPL.pdb
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.csproj.AssemblyReference.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.Properties.Resources.resources
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.csproj.GenerateResource.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.exe
+C:\Users\Alwan Kemal\Documents\Temp_Coding\TP_MOD3_1302204079_KPL\obj\Debug\TP_MOD3_1302204079_KPL.pdb
